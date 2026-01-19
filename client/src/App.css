@@ -5,3 +5,6 @@ body { background-color: #f4f4f9; font-family: 'Arial', sans-serif; }
  
 /* Bob AI Test: Updating button styles */ 
 .new-button { background-color: #ff5733; color: white; } 
+ 
+/* Bob fixing navigation bar spacing */ 
+.nav-bar { padding: 20px; display: flex; justify-content: space-between; } 
