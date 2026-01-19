@@ -1,1 +1,4 @@
 h1 { color: blue; } 
+ 
+body { background-color: #f4f4f9; font-family: 'Arial', sans-serif; } 
+.btn-primary { background-color: #007bff; color: white; padding: 10px; } 
